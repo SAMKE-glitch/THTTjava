@@ -63,7 +63,7 @@ public class GetLongestString {
     }
 
     /**
-     * Driver method to test the functionality.
+     * Driver Entry method to test the functionality.
      *
      * @param args command line arguments.
      */
